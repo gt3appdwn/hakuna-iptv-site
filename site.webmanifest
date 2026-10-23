@@ -1,0 +1,27 @@
+{
+  "name": "HAKUNA IPTV",
+  "short_name": "HAKUNA",
+  "description": "Explore HAKUNA IPTV for 55,000+ live channels and 200,000+ movies in 4K or 8K. Try the free 24-hour trial and start watching today. Plans for every budget.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#08080a",
+  "theme_color": "#57e5a3",
+  "icons": [
+    {
+      "src": "assets/favicon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/favicon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
